@@ -1,0 +1,3 @@
+com.mycompany.minisweeper.MiniSweeper
+minesweepergame.MinesweeperGame
+com.mycompany.minisweeper.MiniSweeper$1
